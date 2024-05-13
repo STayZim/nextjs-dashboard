@@ -11,6 +11,7 @@ export default function SideNav() {
         href="/"
       >
         <div className="w-32 text-white md:w-40">
+          <strong style={{color: 'white'}}>AZIC Partners, LLC.</strong>
           {/* <AcmeLogo /> */}
         </div>
       </Link>
